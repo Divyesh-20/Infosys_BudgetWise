@@ -235,11 +235,9 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 *   📧 Email: shindedivyeshavinash@gmail.com
 *   🐛 Issues: Create a GitHub issue for bug reports or feature requests.
 
-🚀 Try BudgetWise Online
+### 🚀✨ Try BudgetWise Online
+[💻 Open BudgetWise Dashboard](https://budgetwise20.streamlit.app/)
 
-Access the AI-powered personal finance dashboard directly in your browser:
-
-Open BudgetWise Dashboard
 
 🎯 **Start exploring your AI-powered personal finance dashboard:**
 
