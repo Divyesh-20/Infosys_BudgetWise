@@ -1,0 +1,11 @@
+category,suggested_monthly_limit,historical_monthly_avg,historical_median,transaction_count,priority
+education,751.27,53205.02,5627.0,470,Medium
+entertainment,838.61,59390.31,5011.0,563,Low
+food,2850.74,201888.38,3567.5,2446,High
+health,592.55,41964.38,5097.5,410,High
+investment,587.54,41609.21,20933.5,98,High
+others,7882.27,558219.75,5138.0,4242,Low
+rent,2783.44,197122.02,6188.0,1220,High
+savings,430.52,30489.6,5727.5,274,High
+travel,1561.62,110593.31,5111.0,1043,Medium
+utilities,1168.99,82787.15,4918.0,815,High
