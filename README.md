@@ -232,7 +232,7 @@ MIT License - see the [LICENSE](LICENSE) file for details.
 
 📞 **Support**
 
-*   📧 Email: your-email@domain.com
+*   📧 Email: shindedivyeshavinash@gmail.com
 *   🐛 Issues: Create a GitHub issue for bug reports or feature requests.
 
 🎯 **Start exploring your AI-powered personal finance dashboard:**
